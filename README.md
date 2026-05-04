@@ -45,12 +45,14 @@ Data Engineer | SQL • Python • PySpark • Databricks
 ## 🚀 Featured Projects
 
 ### 1) [Job Aggregation ETL Pipeline using PySpark and Databricks](https://github.com/PrernaVashisht999/Job-Aggregation-ETL-Pipeline-PySpark-Databricks)
+
 - Built an end-to-end ETL pipeline to ingest and process **100+ job listings** from **SerpApi**
 - Implemented **Bronze, Silver, and Gold** layers using **Medallion Architecture**
 - Applied **deduplication, null handling, and schema standardization**
 - Generated structured datasets for **hiring roles, companies, and location insights**
 
 ### 2) [Weather Data ETL Pipeline using PySpark and Databricks](https://github.com/PrernaVashisht999/Weather-Data-ETL-Pipeline-PySpark-Databricks)
+
 - Built a PySpark-based ETL pipeline to ingest **API-driven weather data** from **RapidAPI**
 - Processed weather attributes such as **temperature, humidity, cloud cover, and datetime fields**
 - Applied **cleaning, filtering, validation, transformation, and aggregations**
@@ -80,12 +82,11 @@ Data Engineer | SQL • Python • PySpark • Databricks
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrernaVashisht999&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrernaVashisht999&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrernaVashisht999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C83FD&icon_color=58A6FF&text_color=ffffff" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PrernaVashisht999&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=PrernaVashisht999&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180em" />
 </p>
 
 ---
@@ -100,11 +101,11 @@ Data Engineer | SQL • Python • PySpark • Databricks
 
 ## 📬 Connect
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/prernavashisht" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Prerna%20Vashisht-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:prerna.dataengineer999@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-prerna.dataengineer999%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=prerna.dataengineer999@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-prerna.dataengineer999%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
