@@ -82,10 +82,6 @@ Data Engineer | SQL • Python • PySpark • Databricks
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrernaVashisht999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C83FD&icon_color=58A6FF&text_color=ffffff" height="180em" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=PrernaVashisht999&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180em" />
 </p>
 
@@ -103,9 +99,9 @@ Data Engineer | SQL • Python • PySpark • Databricks
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prernavashisht" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Prerna%20Vashisht-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=prerna.dataengineer999@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-prerna.dataengineer999%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
