@@ -7,20 +7,33 @@ Hi 👋 I'm Prerna Vashisht
 </h1>
 
 <h3 align="center">
-Data Engineer • SQL • Python • PySpark • Databricks
+Data Engineer | SQL | Python | PySpark | Databricks
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7C83FD&center=true&vCenter=true&width=900&lines=Building+Reliable+ETL+Pipelines;Transforming+Raw+Data+into+Analytics-Ready+Datasets;Engineering+Scalable+Data+Solutions+with+PySpark+%26+Databricks" />
+Building reliable ETL pipelines • Transforming raw data into analytics-ready datasets • Engineering scalable data solutions
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7C83FD&center=true&vCenter=true&width=900&lines=Building+Reliable+ETL+Pipelines;Engineering+Data+Solutions+with+PySpark+%26+Databricks;Transforming+Raw+Data+into+Business+Insights" />
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-I'm a Data Engineer passionate about building reliable ETL pipelines and transforming raw data into clean, analytics-ready datasets.
+I am a Data Engineer focused on building reliable data pipelines, scalable transformations, and analytics-ready datasets.
 
-My current engineering focus includes:
+My engineering focus includes:
+
+- Data Ingestion
+- ETL Pipeline Development
+- Data Transformation
+- Data Modeling
+- Data Quality Validation
+- Distributed Data Processing
+
+Currently working with:
 
 - SQL
 - Python
@@ -28,11 +41,11 @@ My current engineering focus includes:
 - Apache Spark
 - Databricks
 
-I enjoy designing data pipelines, solving transformation challenges, and building scalable data solutions using modern data engineering practices.
+I enjoy solving real-world data engineering challenges by combining clean code, scalable architecture, and business-focused solutions.
 
 ---
 
-# ⚒️ Tech Stack
+# 🛠️ Technical Skills
 
 <p align="left">
 
@@ -60,16 +73,20 @@ I enjoy designing data pipelines, solving transformation challenges, and buildin
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Data Engineering Projects
 
-## Job Aggregation ETL Pipeline
+## 🔹 Job Aggregation ETL Pipeline
 
-- PySpark + Databricks
-- API Ingestion using SerpApi
-- Bronze • Silver • Gold Architecture
-- Data Cleaning
-- Schema Standardization
-- Data Quality Validation
+An end-to-end ETL pipeline built using PySpark and Databricks.
+
+### Engineering Highlights:
+
+✔ API-based data ingestion using SerpApi  
+✔ Bronze → Silver → Gold Medallion Architecture  
+✔ Data cleaning and transformation  
+✔ Schema standardization  
+✔ Data quality validation  
+✔ Analytics-ready dataset generation  
 
 Repository:
 
@@ -77,14 +94,18 @@ https://github.com/PrernaVashisht999/Job-Aggregation-ETL-Pipeline-PySpark-Databr
 
 ---
 
-## Weather ETL Pipeline
+## 🔹 Weather Data ETL Pipeline
 
-- RapidAPI Integration
-- ETL using PySpark
-- Databricks
-- Data Transformation
-- Aggregations
-- Structured Output Generation
+A data pipeline transforming external API data into structured datasets.
+
+### Engineering Highlights:
+
+✔ REST API ingestion  
+✔ PySpark transformations  
+✔ Databricks processing  
+✔ Data aggregation workflows  
+✔ Structured output generation  
+✔ ETL workflow design  
 
 Repository:
 
@@ -92,49 +113,46 @@ https://github.com/PrernaVashisht999/Weather-Data-ETL-Pipeline-PySpark-Databrick
 
 ---
 
-# 🏗 Data Engineering Focus
+# 🏗️ Data Engineering Focus
 
-✔ ETL Pipelines
+```
+Raw Data Sources
+        |
+        ↓
+Data Ingestion
+        |
+        ↓
+ETL Processing (PySpark)
+        |
+        ↓
+Data Transformation
+        |
+        ↓
+Analytics Ready Data
+```
 
-✔ API Data Ingestion
+Core Areas:
 
-✔ PySpark Transformations
-
-✔ Spark SQL
-
-✔ Databricks
-
-✔ Medallion Architecture
-
-✔ Data Modeling
-
-✔ Data Cleaning
-
-✔ Distributed Processing
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=PrernaVashisht999&show_icons=true&theme=tokyonight&hide_border=true&count_private=false"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrernaVashisht999&layout=compact&theme=tokyonight&hide_border=true&count_private=false"/>
-
-</p>
+✔ ETL Pipeline Development  
+✔ PySpark Transformations  
+✔ Spark SQL  
+✔ Data Modeling  
+✔ Data Quality Checks  
+✔ Medallion Architecture  
+✔ Distributed Processing  
+✔ API Data Integration  
 
 ---
 
-# 📈 Contribution Graph
+# 📌 Engineering Approach
 
-<p align="center">
+I focus on building data solutions with:
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrernaVashisht999&theme=tokyo-night&hide_border=true"/>
-
-</p>
+- Clean and maintainable code
+- Scalable transformation logic
+- Reliable data workflows
+- Production-oriented thinking
+- Strong understanding of data architecture patterns
 
 ---
 
