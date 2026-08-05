@@ -11,29 +11,29 @@ Data Engineer | SQL | Python | PySpark | Databricks
 </h3>
 
 <p align="center">
-Engineering scalable data pipelines • Designing reliable data workflows • Transforming complex data into meaningful business solutions
+Building scalable data platforms • Engineering reliable pipelines • Designing efficient data processing workflows
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7C83FD&center=true&vCenter=true&width=900&lines=Building+Scalable+Data+Pipelines;Engineering+Reliable+ETL+Workflows;Developing+Data+Solutions+with+PySpark+%26+Databricks" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7C83FD&center=true&vCenter=true&width=900&lines=Designing+Scalable+Data+Pipelines;Engineering+Reliable+ETL+Systems;Building+Data+Solutions+with+PySpark+%26+Databricks" />
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-I am a Data Engineer specializing in building scalable data pipelines, efficient transformation workflows, and reliable data engineering solutions.
+I am a Data Engineer focused on designing scalable data systems, building reliable ETL pipelines, and developing efficient data processing workflows.
 
-My focus areas include:
+My engineering focus includes:
 
-- Designing ETL workflows
-- Building data ingestion pipelines
-- Developing PySpark transformations
-- Implementing data quality practices
-- Working with distributed processing frameworks
+- Building end-to-end data pipelines
+- Designing data ingestion workflows
+- Developing PySpark transformation frameworks
+- Implementing data quality validation
+- Working with distributed processing systems
 - Applying modern data architecture patterns
 
-Technology stack:
+Core technologies:
 
 - SQL
 - Python
@@ -41,7 +41,7 @@ Technology stack:
 - Apache Spark
 - Databricks
 
-I enjoy solving complex data problems through optimized processing, clean engineering practices, and scalable architecture.
+I enjoy solving complex data engineering challenges through optimized processing, clean engineering practices, and scalable architecture.
 
 ---
 
@@ -49,13 +49,15 @@ I enjoy solving complex data problems through optimized processing, clean engine
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,apache,spark&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark"/>
 
 </p>
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Apache%20Spark-F88909?style=for-the-badge&logo=apachespark&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
 
@@ -77,14 +79,14 @@ I enjoy solving complex data problems through optimized processing, clean engine
 
 ## 🔹 Job Aggregation ETL Pipeline
 
-An end-to-end data engineering solution designed to ingest, transform, validate, and structure job market data.
+An end-to-end data engineering pipeline designed to ingest external sources, process transformations, and create reliable data workflows using PySpark and Databricks.
 
-### Key Engineering Concepts:
+### Engineering Highlights:
 
-✔ API-driven data ingestion  
-✔ PySpark-based transformations  
+✔ API-based data ingestion  
+✔ PySpark transformation framework  
 ✔ Bronze → Silver → Gold architecture  
-✔ Schema management  
+✔ Schema standardization  
 ✔ Data validation workflows  
 ✔ Scalable pipeline design  
 
@@ -96,16 +98,16 @@ https://github.com/PrernaVashisht999/Job-Aggregation-ETL-Pipeline-PySpark-Databr
 
 ## 🔹 Weather Data ETL Pipeline
 
-A complete pipeline architecture for processing external API data into structured business information.
+A complete pipeline workflow designed to process external API data through transformation, validation, and structured delivery.
 
-### Key Engineering Concepts:
+### Engineering Highlights:
 
 ✔ REST API ingestion  
-✔ Data transformation workflows  
-✔ PySpark processing  
+✔ Distributed processing using PySpark  
 ✔ Databricks implementation  
+✔ Data transformation workflows  
 ✔ Aggregation logic  
-✔ Reliable pipeline execution  
+✔ Reliable pipeline architecture  
 
 Repository:
 
@@ -113,62 +115,4 @@ https://github.com/PrernaVashisht999/Weather-Data-ETL-Pipeline-PySpark-Databrick
 
 ---
 
-# 🏗️ Data Engineering Expertise
-
-```
-Data Sources
-      |
-      ↓
-Ingestion Layer
-      |
-      ↓
-Transformation Layer
-      |
-      ↓
-Data Processing Engine
-      |
-      ↓
-Business Data Solutions
-```
-
-Core Areas:
-
-✔ ETL Pipeline Engineering  
-✔ PySpark & Spark Processing  
-✔ Data Modeling  
-✔ Data Quality Engineering  
-✔ Distributed Data Processing  
-✔ Medallion Architecture  
-✔ API-Based Data Integration  
-✔ SQL Optimization  
-
----
-
-# 📌 Engineering Mindset
-
-Focused on building data systems that are:
-
-• Reliable  
-• Scalable  
-• Maintainable  
-• Performance-oriented  
-
----
-
-# 📬 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/prernavashisht">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=prerna.dataengineer@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-</p>
+# 🏗️ Data Engineering Architecture
