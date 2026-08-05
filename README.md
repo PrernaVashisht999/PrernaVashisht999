@@ -1,48 +1,59 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Prerna Vashisht Banner"/>
+  <img src="./banner.png" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋 I'm Prerna Vashisht</h1>
+<h1 align="center">
+Hi 👋 I'm Prerna Vashisht
+</h1>
 
-<h3 align="center">Data Engineer</h3>
+<h3 align="center">
+Data Engineer | SQL | Python | PySpark | Databricks
+</h3>
 
 <p align="center">
-Designing reliable data pipelines and building scalable ETL workflows.
+Building scalable data platforms • Engineering reliable pipelines • Designing efficient data processing workflows
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1800&color=6C8CFF&center=true&vCenter=true&width=950&lines=Building+Reliable+ETL+Pipelines;Designing+Scalable+Data+Workflows;Transforming+Raw+Data+into+Business-Ready+Data;SQL+%7C+Python+%7C+PySpark+%7C+Databricks"/>
-</p>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/prernavashisht">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:prerna.dataengineer@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7C83FD&center=true&vCenter=true&width=900&lines=Designing+Scalable+Data+Pipelines;Engineering+Reliable+ETL+Systems;Building+Data+Solutions+with+PySpark+%26+Databricks" />
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-I am a Data Engineer passionate about building reliable ETL pipelines using SQL, Python, PySpark, and Databricks.
+I am a Data Engineer focused on designing scalable data systems, building reliable ETL pipelines, and developing efficient data processing workflows.
 
-My projects focus on ingesting data from external APIs, transforming it with PySpark, and organizing it using the Medallion Architecture to build clean, maintainable, and business-ready data workflows.
+My engineering focus includes:
+
+- End-to-end data pipeline development
+- Data ingestion and transformation workflows
+- PySpark-based distributed processing
+- Data quality validation
+- Data modeling and architecture patterns
+- Building reliable data workflows
+
+Core technologies:
+
+- SQL
+- Python
+- PySpark
+- Apache Spark
+- Databricks
+
+I enjoy solving complex data engineering challenges through optimized processing, clean engineering practices, and scalable architecture.
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Technical Stack
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark"/>
 
-<br><br>
+</p>
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 
@@ -50,85 +61,120 @@ My projects focus on ingesting data from external APIs, transforming it with PyS
 
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
 
-<br>
+<img src="https://img.shields.io/badge/Spark%20SQL-0D1117?style=for-the-badge&logo=apache&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Spark%20SQL-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETL%20Engineering-0D1117?style=for-the-badge&logo=database&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/ETL%20Pipelines-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-0D1117?style=for-the-badge&logo=databricks&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/API%20Integration-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Integration-0D1117?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Medallion%20Architecture-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Medallion%20Architecture-0D1117?style=for-the-badge&logo=databricks&logoColor=white"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Data Engineering Projects
 
-## 💼 Job Aggregation ETL Pipeline
+## 🔹 Job Aggregation ETL Pipeline
 
-An end-to-end ETL pipeline that ingests job data from external APIs, transforms it using PySpark, and organizes data using the Medallion Architecture in Databricks.
+An end-to-end data engineering pipeline designed to ingest external sources, transform raw information, apply validation rules, and create reliable data workflows using PySpark and Databricks.
 
-### Key Highlights
+### Engineering Highlights:
 
-- REST API Data Ingestion
-- Bronze → Silver → Gold Architecture
-- PySpark Data Transformations
-- Delta Tables
-- Databricks
+✔ API-driven data ingestion  
+✔ PySpark transformation framework  
+✔ Bronze → Silver → Gold architecture  
+✔ Schema standardization  
+✔ Data validation workflows  
+✔ Scalable pipeline design  
 
-<p align="left">
-<a href="https://github.com/PrernaVashisht999/Job-Aggregation-ETL-Pipeline-PySpark-Databricks">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+Repository:
 
----
-
-## 🌦 Weather Data ETL Pipeline
-
-A complete ETL pipeline that extracts weather data from external APIs, processes it using PySpark, and stores structured data in Databricks.
-
-### Key Highlights
-
-- REST API Integration
-- PySpark Processing
-- Spark SQL
-- Delta Tables
-- Databricks
-
-<p align="left">
-<a href="https://github.com/PrernaVashisht999/Weather-Data-ETL-Pipeline-PySpark-Databricks">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+https://github.com/PrernaVashisht999/Job-Aggregation-ETL-Pipeline-PySpark-Databricks
 
 ---
 
-# 🏗 Data Engineering Workflow
+## 🔹 Weather Data ETL Pipeline
 
-```text
-          REST APIs
-              │
-              ▼
-      Data Ingestion
-              │
-              ▼
-  PySpark Transformations
-              │
-              ▼
-       Delta Tables
-              │
-              ▼
-     Business-Ready Data
+A complete data engineering workflow designed to process external API sources through ingestion, transformation, validation, and structured delivery.
+
+### Engineering Highlights:
+
+✔ REST API ingestion  
+✔ Distributed processing using PySpark  
+✔ Databricks execution environment  
+✔ Transformation workflows  
+✔ Aggregation logic  
+✔ Reliable pipeline architecture  
+
+Repository:
+
+https://github.com/PrernaVashisht999/Weather-Data-ETL-Pipeline-PySpark-Databricks
+
+---
+
+# 🏗️ Data Engineering Architecture
+
+```
+External Data Sources
+          |
+          ↓
+    Data Ingestion Layer
+          |
+          ↓
+ Transformation Layer
+      (PySpark)
+          |
+          ↓
+ Processing & Validation
+          |
+          ↓
+ Reliable Data Systems
 ```
 
 ---
 
-# 💡 Engineering Philosophy
+# ⚙️ Engineering Expertise
 
-> **Build reliable pipelines.**  
-> **Write clean code.**  
-> **Keep learning.**  
-> **Keep improving.**
+✔ ETL Pipeline Engineering  
+✔ PySpark & Apache Spark Processing  
+✔ Spark SQL  
+✔ Data Modeling  
+✔ Data Quality Engineering  
+✔ Distributed Data Processing  
+✔ Medallion Architecture  
+✔ API-Based Data Integration  
+✔ SQL Optimization  
+
+---
+
+# 📌 Engineering Philosophy
+
+Building data systems with focus on:
+
+• Reliability  
+• Scalability  
+• Maintainability  
+• Performance  
+
+---
+
+# 📬 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/prernavashisht">
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=prerna.dataengineer@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+</p>
