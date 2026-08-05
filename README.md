@@ -22,13 +22,13 @@ Designing reliable data pipelines and building scalable ETL workflows using SQL,
 
 I am a Data Engineer passionate about building reliable ETL pipelines using SQL, Python, PySpark, and Databricks.
 
-I enjoy developing end-to-end data workflows, processing large datasets, and solving data engineering challenges through clean, modular, and maintainable solutions.
+I enjoy building end-to-end data workflows, processing data from multiple sources, and solving engineering challenges through clean, modular, and maintainable solutions.
 
-My engineering focus includes:
+### Engineering Focus
 
 - End-to-End ETL Pipeline Development
 - API-Based Data Ingestion
-- Data Transformation with PySpark
+- PySpark Data Processing
 - Spark SQL
 - Delta Tables
 - Data Validation
@@ -42,9 +42,7 @@ My engineering focus includes:
 
 <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark"/>
 
-</p>
-
-<p align="center">
+<br><br>
 
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 
@@ -52,11 +50,15 @@ My engineering focus includes:
 
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
 
+<br>
+
 <img src="https://img.shields.io/badge/Spark%20SQL-0D1117?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Delta%20Tables-0D1117?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/ETL%20Pipelines-0D1117?style=for-the-badge"/>
+
+<br>
 
 <img src="https://img.shields.io/badge/Data%20Validation-0D1117?style=for-the-badge"/>
 
@@ -74,7 +76,7 @@ My engineering focus includes:
 
 An end-to-end ETL pipeline that ingests job data from external APIs, transforms it using PySpark, and organizes data using the Medallion Architecture in Databricks.
 
-### Highlights
+### Key Highlights
 
 - REST API Data Ingestion
 - Bronze → Silver → Gold Architecture
@@ -83,18 +85,19 @@ An end-to-end ETL pipeline that ingests job data from external APIs, transforms 
 - Data Validation
 - Databricks
 
-🔗 Repository
-
-**Job Aggregation ETL Pipeline**  
-https://github.com/PrernaVashisht999/Job-Aggregation-ETL-Pipeline-PySpark-Databricks
+<p>
+<a href="https://github.com/PrernaVashisht999/Job-Aggregation-ETL-Pipeline-PySpark-Databricks">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 ## 🌦 Weather Data ETL Pipeline
 
-A complete ETL pipeline that extracts weather data from external APIs, performs transformations using PySpark, and stores structured datasets in Databricks.
+A complete ETL pipeline that extracts weather data from external APIs, processes it using PySpark, and stores structured datasets in Databricks.
 
-### Highlights
+### Key Highlights
 
 - REST API Integration
 - PySpark Processing
@@ -103,61 +106,68 @@ A complete ETL pipeline that extracts weather data from external APIs, performs 
 - Data Cleaning
 - Databricks
 
-🔗 Repository
-
-**Weather Data ETL Pipeline**  
-https://github.com/PrernaVashisht999/Weather-Data-ETL-Pipeline-PySpark-Databricks
+<p>
+<a href="https://github.com/PrernaVashisht999/Weather-Data-ETL-Pipeline-PySpark-Databricks">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 # 🏗 Data Engineering Workflow
 
 ```text
-      REST APIs
-          │
-          ▼
-   Data Ingestion
-          │
-          ▼
-PySpark Transformations
-          │
-          ▼
-   Data Validation
-          │
-          ▼
-    Delta Tables
-          │
-          ▼
- Curated Datasets
+          REST APIs
+              │
+              ▼
+      Data Ingestion
+              │
+              ▼
+  PySpark Transformations
+              │
+              ▼
+      Data Validation
+              │
+              ▼
+       Delta Tables
+              │
+              ▼
+     Business-Ready Data
 ```
 
 ---
 
-# ⚙ Engineering Expertise
+# 💻 Core Skills
 
-✔ SQL
+<p align="center">
 
-✔ Python
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-✔ PySpark
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-✔ Apache Spark
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 
-✔ Databricks
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
 
-✔ Spark SQL
+<br>
 
-✔ ETL Pipeline Development
+<img src="https://img.shields.io/badge/Apache%20Spark-F88909?style=for-the-badge&logo=apachespark&logoColor=white"/>
 
-✔ API Integration
+<img src="https://img.shields.io/badge/Spark%20SQL-0D1117?style=for-the-badge"/>
 
-✔ Data Validation
+<img src="https://img.shields.io/badge/ETL%20Pipelines-0D1117?style=for-the-badge"/>
 
-✔ Medallion Architecture
+<img src="https://img.shields.io/badge/Data%20Validation-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/API%20Integration-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Medallion%20Architecture-0D1117?style=for-the-badge"/>
+
+</p>
 
 ---
 
-# 📚 Currently Exploring
+# 📚 Currently Learning
 
 - Advanced PySpark Transformations
 - Delta Lake
@@ -166,33 +176,15 @@ PySpark Transformations
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PrernaVashisht999&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=PrernaVashisht999&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrernaVashisht999&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 💡 Engineering Philosophy
 
-> Build reliable pipelines.
+> **Build reliable pipelines.**
 >
-> Write clean code.
+> **Write clean code.**
 >
-> Keep learning.
+> **Keep learning.**
 >
-> Keep improving.
+> **Keep improving.**
 
 ---
 
